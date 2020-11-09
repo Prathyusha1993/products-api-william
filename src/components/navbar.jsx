@@ -5,7 +5,7 @@ class Navbar extends Component{
     render(){
         return(
             <div className="header">
-                <div className="header__logo">William Sonoma</div>
+                <h1 className="header__logo">William Sonoma</h1> 
             </div>
         );
     }

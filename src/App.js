@@ -2,16 +2,16 @@
 import './App.css';
 import React, {Component} from 'react';
 import Navbar from './components/navbar';
-import ProductList from './components/productList';
+import CarouselPage from './components/carouselPage';
 
 class App extends Component{
   state={};
   render(){
     return(
-      <div>
-        <Navbar />
-        <ProductList />
-      </div>
+    <div>
+      <Navbar />
+      <CarouselPage />
+    </div>
     );
   }
 }
