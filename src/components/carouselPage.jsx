@@ -8,7 +8,6 @@ class CarouselPage extends Component {
     super(props);
     this.state = {
       product: [],
-      images: [],
     };
   }
 
