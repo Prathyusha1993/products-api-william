@@ -84,8 +84,8 @@ This UI page is build by using "react-responsive-carousel"
           b. product name
        2. Thumbnails
        3. this UI page should appear in the form of carousel  
- 3. Service Layer
-    a. Get all product details
+3. Service Layer
+   a. Get all product details
 
 **# Technical Details**
 This project was bootstrapped with Create React App.
