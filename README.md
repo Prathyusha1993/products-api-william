@@ -38,7 +38,7 @@ To get the project up and running, and view components in the browser, complete 
 5. Open your browser and visit http://localhost:3000
 
 **# Implementation steps**
-Once there is clarity in requirements then follow the below steps to implement
+###### Once there is clarity in requirements then follow the below steps to implement
 
 Technology choices - get a clarity on what technology should be used and why
 
@@ -69,7 +69,7 @@ vii. Deploy to production
 viii. Bugs
    a. If any bugs, fix them
 
-**## Work Breakdown**
+## Work Breakdown
 We have to breakdown the work into smaller stories to be worked to collaborate with the team. In this phase, we go through low level details to make sure we have all the necessary info to build the application, and find out proactively if there are any challenges.
 
 According to the designs, the following React components and interactions have been identified
