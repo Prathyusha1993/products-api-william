@@ -47,33 +47,26 @@ Technology choices - get a clarity on what technology should be used and why
    2.Sass
       a. Clean, easy and less CSS
 **Implementation**
-
-   Sass
-Clean, easy and less CSS
-Implementation
-
-Create react app
-Use some template builders to bootstrap the app with necessary artifacts
-Components design
-Identify components
-Go through designs and identify all the components to write code
-Identify state vs stateless components
-Identify props to be passed to the components
-Write code
-Iteratively write code and improve it with code reviews
-Write reusable components and functions
-Add styling
-Style the components as per the designs
-Run the code and verify
-Logging
-Call logging api to store in server
-Tests
-Unit tests
-Integration tests
-Deploy to production
-Verify if everything is fine
-Bugs
-If any bugs, fix them
+    1. Create react app
+      - Use some template builders to bootstrap the app with necessary artifacts
+    2. Components design 
+      - Identify components
+         1.Go through designs and identify all the components to write code
+      - Identify state vs stateless components
+      - Identify props to be passed to the components
+   3. Write code
+      - Iteratively write code and improve it with code reviews
+      - Write reusable components and functions
+   4. Add styling
+      - Style the components as per the designs
+   5. Run the code and verify
+   6. Tests
+      - Unit tests
+      - Integration tests
+   7. Deploy to production
+      - Verify if everything is fine
+   8. Bugs
+      - If any bugs, fix them
 
 ## Work Breakdown
 We have to breakdown the work into smaller stories to be worked to collaborate with the team. In this phase, we go through low level details to make sure we have all the necessary info to build the application, and find out proactively if there are any challenges.
