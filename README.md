@@ -2,7 +2,7 @@ Welcome to the products-api-william wiki!
 # **PRODUCTS API BY WILLIAM SONOMA** 👍 
 This application is built as a front end coding challenge given by William Sonoma Company. 
 
-**Demo** : "vercel Link"
+**Demo** : https://products-api-william.vercel.app/
 
 **Requirements : **
 
@@ -90,4 +90,4 @@ This UI page is build by using "react-responsive-carousel"
 **# Technical Details**
 This project was bootstrapped with Create React App.
 
-Check here for details on how to run and contribute to the app.
+Check (here) for details on how to run and contribute to the app.
