@@ -48,26 +48,32 @@ Technology choices - get a clarity on what technology should be used and why
       a. Clean, easy and less CSS
 **Implementation**
 
-   i. Create react app
-      a. Use some template builders to bootstrap the app with necessary artifacts
-   ii. Components design 
-      a. Identify components
-         1.Go through designs and identify all the components to write code
-      b. Identify state vs stateless components
-      c. Identify props to be passed to the components
-   iii. Write code
-      a. Iteratively write code and improve it with code reviews
-      b. Write reusable components and functions
-   iv. Add styling
-      a. Style the components as per the designs
-   v. Run the code and verify
-   vi. Tests
-      a. Unit tests
-      b. Integration tests
-   vii. Deploy to production
-      a. Verify if everything is fine
-   viii. Bugs
-      a. If any bugs, fix them
+   Sass
+Clean, easy and less CSS
+Implementation
+
+Create react app
+Use some template builders to bootstrap the app with necessary artifacts
+Components design
+Identify components
+Go through designs and identify all the components to write code
+Identify state vs stateless components
+Identify props to be passed to the components
+Write code
+Iteratively write code and improve it with code reviews
+Write reusable components and functions
+Add styling
+Style the components as per the designs
+Run the code and verify
+Logging
+Call logging api to store in server
+Tests
+Unit tests
+Integration tests
+Deploy to production
+Verify if everything is fine
+Bugs
+If any bugs, fix them
 
 ## Work Breakdown
 We have to breakdown the work into smaller stories to be worked to collaborate with the team. In this phase, we go through low level details to make sure we have all the necessary info to build the application, and find out proactively if there are any challenges.
