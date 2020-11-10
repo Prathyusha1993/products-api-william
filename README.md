@@ -15,19 +15,20 @@ hero image
    4. Interacts intuitively; if you click on the image, you should see an overlay
 with a carousal of all thumbnail images
 
-**JSON URL**
+###### JSON URL
 - https://www.westelm.com/services/catalog/v4/category/shop/new/all-new/index.json
-**Guidelines**
-· Use any view framework of your choice
-· As much as possible, stick to vanilla JavaScript for DOM handling
-(queries, events, etc.)
-· Spend your time in design and implementation. We are not looking for
-the quickest solution.
-· Detail your build system and tests in README.md – how do we run the
-tests and run the project?
-· Showcase your ES6 skills and your UX/UI chops.
 
-# **Installation**
+## Guidelines
+   1. Use any view framework of your choice
+   2. As much as possible, stick to vanilla JavaScript for DOM handling
+(queries, events, etc.)
+   3. Spend your time in design and implementation. We are not looking for
+the quickest solution.
+   4. Detail your build system and tests in README.md – how do we run the
+tests and run the project?
+   5. Showcase your ES6 skills and your UX/UI chops.
+
+##  Installation
 To get the project up and running, and view components in the browser, complete the following steps:
 
 1. Download and install Node: https://nodejs.org/
