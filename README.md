@@ -1,70 +1,88 @@
-# Getting Started with Create React App
+Welcome to the products-api-william wiki!
+# **PRODUCTS API BY WILLIAM SONOMA** 👍 
+This application is built as a front end coding challenge given by William Sonoma Company. 
+**Demo** : "vercel Link"
+**Requirements : **
+Using the json file provided below, given an input of products, design a page
+that:
+· Consumes the JSON of products
+· Builds the product details page with all products
+· Displays the product details, including price, product name and the main********
+hero image
+· Interacts intuitively; if you click on the image, you should see an overlay
+with a carousal of all thumbnail images
+**JSON URL**
+- https://www.westelm.com/services/catalog/v4/category/shop/new/all-new/index.json
+**Guidelines**
+· Use any view framework of your choice
+· As much as possible, stick to vanilla JavaScript for DOM handling
+(queries, events, etc.)
+· Spend your time in design and implementation. We are not looking for
+the quickest solution.
+· Detail your build system and tests in README.md – how do we run the
+tests and run the project?
+· Showcase your ES6 skills and your UX/UI chops.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# **Installation**
+To get the project up and running, and view components in the browser, complete the following steps:
 
-## Available Scripts
+1. Download and install Node: https://nodejs.org/
+2. Clone this repo: git clone https://github.com/Prathyusha1993/products-api-william.git
+3. Install project dependancies: npm install
+4. Start the development environment: npm start
+5. Open your browser and visit http://localhost:3000
 
-In the project directory, you can run:
+**# Implementation steps**
+Once there is clarity in requirements then follow the below steps to implement
 
-### `npm start`
+Technology choices - get a clarity on what technology should be used and why
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+1. React JS
+ a.Fast development with reusable UI components
+2.Sass
+ a. Clean, easy and less CSS
+**Implementation**
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+i. Create react app
+   a. Use some template builders to bootstrap the app with necessary artifacts
+ii. Components design 
+   a. Identify components
+      1.Go through designs and identify all the components to write code
+   b. Identify state vs stateless components
+   c. Identify props to be passed to the components
+iii. Write code
+   a. Iteratively write code and improve it with code reviews
+   b. Write reusable components and functions
+iv. Add styling
+   a. Style the components as per the designs
+v. Run the code and verify
+vi. Tests
+   a. Unit tests
+   b. Integration tests
+vii. Deploy to production
+   a. Verify if everything is fine
+viii. Bugs
+   a. If any bugs, fix them
 
-### `npm test`
+**## Work Breakdown**
+We have to breakdown the work into smaller stories to be worked to collaborate with the team. In this phase, we go through low level details to make sure we have all the necessary info to build the application, and find out proactively if there are any challenges.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+According to the designs, the following React components and interactions have been identified
+This UI page is build by using "react-responsive-carousel"
 
-### `npm run build`
+### ## React Components
+   a. Navbar
+      William Sonoma
+   b. Body
+      1. Product details
+         a. hero image
+         b. product name
+      2. Thumbnails
+      3. this UI page should appear in the form of carousel  
+3. Service Layer
+   a. Get all product details
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+**# Technical Details**
+This project was bootstrapped with Create React App.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Check here for details on how to run and contribute to the app.
