@@ -1,8 +1,11 @@
 Welcome to the products-api-william wiki!
 # **PRODUCTS API BY WILLIAM SONOMA** 👍 
 This application is built as a front end coding challenge given by William Sonoma Company. 
+
 **Demo** : "vercel Link"
+
 **Requirements : **
+
 Using the json file provided below, given an input of products, design a page
 that:
 · Consumes the JSON of products
@@ -11,6 +14,7 @@ that:
 hero image
 · Interacts intuitively; if you click on the image, you should see an overlay
 with a carousal of all thumbnail images
+
 **JSON URL**
 - https://www.westelm.com/services/catalog/v4/category/shop/new/all-new/index.json
 **Guidelines**
