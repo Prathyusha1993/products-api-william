@@ -8,11 +8,11 @@ This application is built as a front end coding challenge given by William Sonom
 
 Using the json file provided below, given an input of products, design a page
 that:
-· Consumes the JSON of products
-· Builds the product details page with all products
-· Displays the product details, including price, product name and the main********
+   1. Consumes the JSON of products
+   2. Builds the product details page with all products
+   3. Displays the product details, including price, product name and the main********
 hero image
-· Interacts intuitively; if you click on the image, you should see an overlay
+   4. Interacts intuitively; if you click on the image, you should see an overlay
 with a carousal of all thumbnail images
 
 **JSON URL**
