@@ -92,9 +92,9 @@ This UI page is build by using "react-responsive-carousel"
    - Written unit test for following files using Jest and Enzyme.
    - npm install --save-dev enzyme enzyme-adapter-react-16 react-test-renderer
 
-   1. App.js
-   2.Navbar.js
-   3.fetchService.js
+         1. App.js
+         2.Navbar.js
+         3.fetchService.js
 
 **# Technical Details**
 This project was bootstrapped with Create React App.
